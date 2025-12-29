@@ -5,4 +5,4 @@ Content:
     ●	Mention the problem statement and the analysis approach briefly 
     ●	Explain the results in business terms
     ●	Include visualisations and summarise the most important results in the presentation
-●	Prashant Padekar - Logistic Regression - Detailed Report.docx - A brief summary report in 500 words explaining how you proceeded with the assignment and the learnings that you gathered.
+●	Prashant Padekar - Logistic Regression - Summary.docx - A brief summary report in 500 words explaining how you proceeded with the assignment and the learnings that you gathered.
